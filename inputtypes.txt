@@ -1,0 +1,21 @@
+for input attribute types:
+1.<input type="button"--for the buttons.
+              "checkbox"--for checkbox required.
+              "color"--for the color.
+               "date"--for the date.
+                "datetime-local"--to get the date.
+                "email"--for the email.
+                "file"--for the file.
+                "hidden"--for hidding.
+                "image"-- for image.
+                "month"--for month.
+                "number"--for number
+                "password"--for password.
+                 "radio"--for radio button.
+                 "range"--for the range.
+                 "reset"--to reset.
+                  "search"--to search.
+                  "submit"--to sumbit
+                  "text"--for the text.
+                   "url"--to put url pattern
+                   "week"--for the week
