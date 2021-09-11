@@ -1,0 +1,46 @@
+1.git --version  //to check if Git is properly installed:
+
+2.git config --global user.name "w3schools-test"
+  git config --global user.email "test@w3schools.com"
+
+3.git init 
+Initialized empty Git repository.
+
+4.git status
+
+5.git add .   //to add all the files
+  git add -all
+
+The shorthand command for git add --all is git add -A
+
+
+6.commit change point or "save point". 
+commit change point or "save point". 
+
+7.When we commit, we should always include a message
+
+git commit -m "First release of Hello World!"
+
+git status --short
+ M index.html
+
+
+8.Note: Short status flags are:
+
+?? - Untracked files
+A - Files added to stage
+M - Modified files
+D - Deleted files
+
+
+9.git branch hello-world-images
+// branch creating
+ 10.git branch // shows all the braches.
+
+11.git checkout hello-images
+// switched to branch hello-images
+
+12.git checkout -b emergency-fix
+Switched to a new branch 'emergency-fix'
+
+13.git merge emergency-fix
